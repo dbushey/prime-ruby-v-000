@@ -5,5 +5,5 @@ def prime?(num)
       return false
     end
   end
-  num > 1
+  return num > 1
 end
